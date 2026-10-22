@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Akshit Singh — Automation and API integrations</title>
+  <desc id="desc">A charcoal banner with sage pixel accents and a simple connected workflow. Less manual work. More room to think.</desc>
+  <rect width="1200" height="300" rx="16" fill="#171e1c"/>
+  <path d="M48 39h12v12H48zm18 0h12v12H66zm18 0h12v12H84z" fill="#bdd9b6"/>
+  <text x="112" y="50" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="2" fill="#bdd9b6">AUTOMATION + API INTEGRATIONS</text>
+  <text x="48" y="133" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="-1" fill="#f5f4ed">Akshit Singh</text>
+  <text x="49" y="181" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#d9ded7">Less manual work.</text>
+  <text x="49" y="218" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#bdd9b6">More room to think.</text>
+  <path d="M48 258h1104" stroke="#3a4740"/>
+  <g fill="none" stroke="#71876d" stroke-width="2">
+    <path d="M707 147h64v-43h75m-75 43v43h75m92-86h52v43h67m-119 43h52v-43"/>
+    <rect x="624" y="112" width="82" height="70" rx="8"/>
+    <rect x="847" y="69" width="91" height="70" rx="8"/>
+    <rect x="847" y="155" width="91" height="70" rx="8"/>
+    <rect x="1057" y="112" width="91" height="70" rx="8"/>
+  </g>
+  <g fill="#bdd9b6">
+    <path d="M648 132h34v5h-34zm0 12h26v5h-26zm0 12h18v5h-18z"/>
+    <path d="M875 99h12v-12h12v12h12v12h-12v12h-12v-12h-12z"/>
+    <path d="M877 178h8v8h-8zm12 0h8v8h-8zm12 0h8v8h-8zm-24 12h8v8h-8zm12 0h8v8h-8zm12 0h8v8h-8z"/>
+    <path d="M1080 146l11 11 23-25 6 6-29 31-17-17z"/>
+  </g>
+  <path d="M1108 37h10v10h-10zm16 0h10v10h-10zm16 0h10v10h-10zm0 16h10v10h-10zm0 16h10v10h-10z" fill="#3d5142"/>
+</svg>
