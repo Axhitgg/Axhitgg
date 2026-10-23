@@ -9,16 +9,16 @@ I build automation tools that help teams organise requests, follow up with custo
 ### Start here
 
 **[Service Operations Control Tower](https://github.com/Axhitgg/service-operations-control-tower)**  
-An EV service-workflow prototype: AI request classification, human-review flags, technician and parts checks, appointment proposals and approval audit events. Includes a six-test Pytest suite and GitHub Actions checks for tests and Docker builds.
+An EV service-workflow prototype with AI classification, enforced human-review gates, technician and parts checks, appointment proposals and approval audit events. Includes automated regression and PostgreSQL integration checks, an importable n8n workflow and a documented case study.
 
-[View the illustrative walkthrough](https://akshit-portfolio-jlzx.onrender.com/#flagship) · [Read the implementation and limitations](https://github.com/Axhitgg/service-operations-control-tower#readme)
+[View the illustrative walkthrough](https://akshit-portfolio-jlzx.onrender.com/#flagship) · [Read the case study](https://github.com/Axhitgg/service-operations-control-tower/blob/main/docs/CASE_STUDY.md)
 
 ### More projects
 
 | Project | What it explores |
 | --- | --- |
 | [Customer Support Ticket System](https://github.com/Axhitgg/customer-support-ticket-system) | Classifying support requests, storing structured records and routing email notifications. |
-| [Invoice Payment Automation](https://github.com/Axhitgg/invoice-payment-automation) | Validating invoices and identifying due-soon and overdue payments for scheduled reminders. |
+| [Invoice Payment Automation](https://github.com/Axhitgg/invoice-payment-automation) | Tracking reminder attempts, preventing overlapping runs and suppressing reminders after payment, with dry-run previews and failure recovery. |
 | [Lead Follow-up System](https://github.com/Axhitgg/lead-followup-system) | Flagging urgent enquiries, normalising email addresses and checking repeat lead IDs. |
 | [Portfolio source](https://github.com/Axhitgg/akshit-portfolio) | An HTML, CSS and JavaScript portfolio with interactive, illustrative workflow scenarios. |
 
@@ -30,9 +30,9 @@ An EV service-workflow prototype: AI request classification, human-review flags,
 
 ### What I am working on
 
-- Strengthening backend approval checks and failure handling in the flagship workflow.
-- Making workflow examples easier to reproduce and measuring results on labelled test cases.
-- Building my JavaScript and business-system integration skills.
+- Practising the flagship workflow's approval, transaction and failure-handling decisions.
+- Reviewing results on labelled synthetic cases before making accuracy claims.
+- Learning JavaScript and CRM integration through a guided HubSpot project.
 
 ### A little context
 
