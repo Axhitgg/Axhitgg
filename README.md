@@ -17,6 +17,7 @@ An EV service-workflow prototype with AI classification, enforced human-review g
 
 | Project | What it explores |
 | --- | --- |
+| [HubSpot Enquiry Intake](https://github.com/Axhitgg/hubspot-enquiry-intake) | An 11-node n8n CRM demo: validate enquiries and consent, upsert contacts, check for existing deals and create linked follow-up tasks. |
 | [Customer Support Ticket System](https://github.com/Axhitgg/customer-support-ticket-system) | Classifying support requests, storing structured records and routing email notifications. |
 | [Invoice Payment Automation](https://github.com/Axhitgg/invoice-payment-automation) | Tracking reminder attempts, preventing overlapping runs and suppressing reminders after payment, with dry-run previews and failure recovery. |
 | [Lead Follow-up System](https://github.com/Axhitgg/lead-followup-system) | Flagging urgent enquiries, normalising email addresses and checking repeat lead IDs. |
@@ -32,7 +33,7 @@ An EV service-workflow prototype with AI classification, enforced human-review g
 
 - Practising the flagship workflow's approval, transaction and failure-handling decisions.
 - Reviewing results on labelled synthetic cases before making accuracy claims.
-- Learning JavaScript and CRM integration through a guided HubSpot project.
+- Practising CRM integrations after verifying the HubSpot intake, sequential replay and invalid-input paths.
 
 ### A little context
 
